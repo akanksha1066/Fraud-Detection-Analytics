@@ -7,7 +7,8 @@ An End-to-End Machine Learning Pipeline to detect fraudulent financial transacti
 ##  Dashboard Preview
 Here is how the live dashboard looks with interactive charts and real-time risk scoring:
 
-![Fraud Detection Dashboard](Screenshot 2026-06-27 235656.png)
+![Fraud Detection Dashboard](dashboard.png)
+
 ---
 
 ##  Project Overview
@@ -28,7 +29,7 @@ The dataset used is the **Kaggle Credit Card Fraud Detection Dataset**. It conta
 
 ---
 
-## Tech Stack & Architecture
+##  Tech Stack & Architecture
 - **Language:** Python 3.x
 - **Libraries:** Scikit-Learn, XGBoost, Imbalanced-Learn, Pandas, NumPy
 - **Deployment:** Streamlit
