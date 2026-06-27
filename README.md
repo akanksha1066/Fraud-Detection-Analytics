@@ -7,7 +7,7 @@ An End-to-End Machine Learning Pipeline to detect fraudulent financial transacti
 ##  Dashboard Preview
 Here is how the live dashboard looks with interactive charts and real-time risk scoring:
 
-![Fraud Detection Dashboard](dashboard.png)
+![Fraud Detection Dashboard](Screenshot%202026-06-27%20235656.png)
 
 ---
 
@@ -36,7 +36,7 @@ The dataset used is the **Kaggle Credit Card Fraud Detection Dataset**. It conta
 
 ---
 
-##  How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repository
 ```bash
