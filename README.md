@@ -7,8 +7,7 @@ An End-to-End Machine Learning Pipeline to detect fraudulent financial transacti
 ##  Dashboard Preview
 Here is how the live dashboard looks with interactive charts and real-time risk scoring:
 
-![Fraud Detection Dashboard](dashboard.png)
-
+![Fraud Detection Dashboard](Screenshot 2026-06-27 235656.png)
 ---
 
 ##  Project Overview
