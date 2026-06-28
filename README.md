@@ -36,5 +36,4 @@ The dataset used is the **Kaggle Credit Card Fraud Detection Dataset**. It conta
 
 ---
 
-## How to Run Locally
 
