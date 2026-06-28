@@ -38,7 +38,3 @@ The dataset used is the **Kaggle Credit Card Fraud Detection Dataset**. It conta
 
 ## How to Run Locally
 
-### 1. Clone the repository
-```bash
-git clone [https://github.com/akanksha1066/Fraud-Detection-Analytics.git](https://github.com/akanksha1066/Fraud-Detection-Analytics.git)
-cd Fraud-Detection-Analytics
